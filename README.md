@@ -40,5 +40,3 @@ clínicas y genómicas de pacientes reales.
 que es la métrica más importante clínicamente.
 
 ---
-
-## Estructura del Repositorio
