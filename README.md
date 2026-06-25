@@ -23,6 +23,10 @@ clínicas y genómicas de pacientes reales.
 | Variable objetivo | Grade: LGG (0) / HGG (1) |
 | Valores faltantes | Ninguno |
 
+El conjunto de datos original contiene distintos subtipos de tumores cerebrales, como astrocitomas, oligodendrogliomas y glioblastomas.
+
+Para este proyecto, las categorías fueron simplificadas y agrupadas con el objetivo de entrenar un modelo de clasificación más sencillo enfocado en la detección de gliomas.
+
 > El dataset se descarga automáticamente al correr el notebook 
 > usando la librería `ucimlrepo`. No es necesario descargarlo manualmente.
 
