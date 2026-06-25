@@ -1,11 +1,5 @@
 # Clasificación de Gliomas Cerebrales mediante Aprendizaje Automático
 
-**Materia:** Aprendizaje Automático  
-**Autora:** Sandra Rivera  
-**Universidad:** Universidad Autónoma del Estado de Morelos  
-
----
-
 ## Descripción
 
 Este proyecto aplica técnicas de aprendizaje automático supervisado para predecir 
